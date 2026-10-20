@@ -151,6 +151,9 @@ activemq-data/
 
 # Environments
 .env
+
+# Runtime data (DATA_DIR): photos, Excel log, totals.json
+data/
 .envrc
 .venv
 env/
